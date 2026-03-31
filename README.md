@@ -74,7 +74,6 @@ StudyHours    |     Attendance(in %)      |      Marks
 ---
 ## How to Run
 1. Clone the repository:
-   ```bash
 git clone https://github.com/YOUR_USERNAME/STUDENT-PERFORMANCE-PREDICTOR.git
 
 3. Navigate to the project folder:
