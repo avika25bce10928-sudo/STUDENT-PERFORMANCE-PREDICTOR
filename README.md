@@ -74,10 +74,10 @@ StudyHours    |     Attendance(in %)      |      Marks
 ---
 ## How to Run
 1. Clone the repository:
-```bash
-git clone https://github.com/avika25bce10928-sudo/STUDENT-PERFORMANCE-PREDICTOR
+   ```bash
+git clone https://github.com/YOUR_USERNAME/STUDENT-PERFORMANCE-PREDICTOR.git
 
-2. Navigate to the project folder:
-cd STUDENT-PERFORMANCE-PREDICTOR
-3.Open the notebooks or scripts in Python or VS Code.
-4.Run the code to see predictions based on studying hours and attendance.
+3. Navigate to the project folder:
+  STUDENT-PERFORMANCE-PREDICTOR
+
+5. Run the python file main.py to see the predictions(outputs)
