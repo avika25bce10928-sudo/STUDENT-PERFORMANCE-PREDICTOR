@@ -77,3 +77,7 @@ StudyHours    |     Attendance(in %)      |      Marks
 ```bash
 git clone https://github.com/avika25bce10928-sudo/STUDENT-PERFORMANCE-PREDICTOR
 
+2. Navigate to the project folder:
+cd STUDENT-PERFORMANCE-PREDICTOR
+3.Open the notebooks or scripts in Python or VS Code.
+4.Run the code to see predictions based on studying hours and attendance.
